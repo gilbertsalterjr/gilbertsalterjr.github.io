@@ -3,11 +3,11 @@ Gilbert Salter Jr.
 
 ## Projects
 ### One Body Network
-- Description: Christian Website For Churchs and Sacred Community Services
-- Links: www.onebodynetwork.com
+-  Christian Website For Churchs and Sacred Community Services
+- www.onebodynetwork.com
 
 ### CareMetx
-- Migration of on-prem .NET codebase to AWS Cloud
+- CareMetx® provides an industry-leading patient access solution and patient support services
 - www.caremetx.com
 
 # Education
